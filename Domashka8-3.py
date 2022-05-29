@@ -39,14 +39,3 @@ def sample_questions(tag):
 
 if __name__ == '__main__':
     sample_questions('python')
-
-
-# for i in range(1,23):
-#   params['page'] = i
-#   questions = requests.get(url, params=params).json()
-#   print('*', end = ' ')
-# pprint(questions_list)
-
-
-# pprint(questions_list)
-
